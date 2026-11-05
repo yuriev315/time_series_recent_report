@@ -1,0 +1,718 @@
+TY  - CPAPER
+TI  - A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective
+AU  - Xiangfei Qiu
+AU  - Hanyin Cheng
+AU  - Xingjian Wu
+AU  - Junkai Lu
+AU  - Jilin Hu
+AU  - Chenjuan Guo
+AU  - Christian S. Jensen
+AU  - Bin Yang
+PY  - 2026
+T2  - Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
+DO  - 10.24963/ijcai.2026/887
+UR  - https://doi.org/10.24963/ijcai.2026/887
+ER  - 
+
+TY  - JOUR
+TI  - A survey of deep time series forecasting backbone architectures: progress, pitfalls, and a systematic comparison
+AU  - Xiang Li
+AU  - Yanping Zheng
+AU  - Zhewei Wei
+PY  - 2026
+T2  - Frontiers of Computer Science
+DO  - 10.1007/s11704-026-50462-z
+UR  - https://doi.org/10.1007/s11704-026-50462-z
+ER  - 
+
+TY  - GEN
+TI  - Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data
+AU  - Besher, Donia
+AU  - Pathak, Rajdeep
+AU  - Panja, Madhurima
+AU  - Chakraborty, Tanujit
+PY  - 2026
+T2  - arXiv
+DO  - 10.48550/arxiv.2609.13345
+UR  - https://doi.org/10.48550/arxiv.2609.13345
+ER  - 
+
+TY  - GEN
+TI  - Deep Time Series Models: A Comprehensive Survey and Benchmark
+AU  - Wang, Yuxuan
+AU  - Wu, Haixu
+AU  - Dong, Jiaxiang
+AU  - Liu, Yong
+AU  - Wang, Chen
+AU  - Long, Mingsheng
+AU  - Wang, Jianmin
+PY  - 2026
+T2  - arXiv
+DO  - 10.48550/arxiv.2407.13278
+UR  - https://doi.org/10.48550/arxiv.2407.13278
+ER  - 
+
+TY  - GEN
+TI  - Deep Time-Series Forecasting in 10 Years: A Survey
+AU  - Wang, Hao
+AU  - Pan, Licheng
+AU  - Wen, Qingsong
+AU  - Yu, Jialin
+AU  - Chen, Zhichao
+AU  - Zheng, Chunyuan
+AU  - Li, Xiaoxi
+AU  - Chu, Zhixuan
+AU  - Xu, Chao
+AU  - Gong, Mingming
+AU  - Li, Haoxuan
+AU  - Lu, Yuan
+AU  - Lin, Zhouchen
+AU  - Torr, Philip
+AU  - Liu, Yan
+PY  - 2026
+T2  - arXiv
+DO  - 10.48550/arxiv.2603.19899
+UR  - https://doi.org/10.48550/arxiv.2603.19899
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning for time series forecasting: a survey of recent advances
+AU  - Kaiyuan Liao
+AU  - Xiwei Xuan
+AU  - Kwan-Liu Ma
+PY  - 2026
+T2  - Frontiers of Computer Science
+DO  - 10.1007/s11704-025-50947-3
+UR  - https://doi.org/10.1007/s11704-025-50947-3
+ER  - 
+
+TY  - JOUR
+TI  - Efficient and explainable multivariate time series forecasting: a survey of architectures, taxonomies, and open challenges
+AU  - Sibo Qi
+AU  - Yuejing Zhai
+AU  - Peng Chen
+AU  - Wuman Luo
+PY  - 2026
+T2  - Artificial Intelligence Review
+DO  - 10.1007/s10462-026-11680-w
+UR  - https://doi.org/10.1007/s10462-026-11680-w
+ER  - 
+
+TY  - GEN
+TI  - Empowering Time Series Analysis with Foundation Models: A Comprehensive Survey
+AU  - Ye, Jiexia
+AU  - Yu, Yongzi
+AU  - Zhang, Weiqi
+AU  - Wang, Le
+AU  - Li, Jia
+AU  - Tsung, Fugee
+PY  - 2026
+T2  - arXiv
+DO  - 10.48550/arxiv.2405.02358
+UR  - https://doi.org/10.48550/arxiv.2405.02358
+ER  - 
+
+TY  - GEN
+TI  - It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks
+AU  - Qiao, Zhongzheng
+AU  - Pan, Sheng
+AU  - Wang, Anni
+AU  - Zhukova, Viktoriya
+AU  - Liu, Yong
+AU  - Jiang, Xudong
+AU  - Wen, Qingsong
+AU  - Long, Mingsheng
+AU  - Jin, Ming
+AU  - Liu, Chenghao
+PY  - 2026
+T2  - arXiv
+DO  - 10.48550/arxiv.2602.12147
+UR  - https://doi.org/10.48550/arxiv.2602.12147
+ER  - 
+
+TY  - JOUR
+TI  - A comprehensive survey of deep learning for time series forecasting: architectural diversity and open challenges
+AU  - Jongseon Kim
+AU  - Hyungjoon Kim
+AU  - HyunGi Kim
+AU  - Dongjun Lee
+AU  - Sungroh Yoon
+PY  - 2025
+T2  - Artificial Intelligence Review
+DO  - 10.1007/s10462-025-11223-9
+UR  - https://doi.org/10.1007/s10462-025-11223-9
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning for time series forecasting: a survey
+AU  - Xiangjie Kong
+AU  - Zhenghao Chen
+AU  - Weiyao Liu
+AU  - Kaili Ning
+AU  - Lechao Zhang
+AU  - Syauqie Muhammad Marier
+AU  - Yichen Liu
+AU  - Yuhao Chen
+AU  - Feng Xia
+PY  - 2025
+T2  - International Journal of Machine Learning and Cybernetics
+DO  - 10.1007/s13042-025-02560-w
+UR  - https://doi.org/10.1007/s13042-025-02560-w
+ER  - 
+
+TY  - GEN
+TI  - Diffusion Models for Time Series Forecasting: A Survey
+AU  - Su, Chen
+AU  - Cai, Zhengzhou
+AU  - Tian, Yuanhe
+AU  - Chang, Zhuochao
+AU  - Zheng, Zihong
+AU  - Song, Yan
+PY  - 2025
+T2  - arXiv
+DO  - 10.48550/arxiv.2507.14507
+UR  - https://doi.org/10.48550/arxiv.2507.14507
+ER  - 
+
+TY  - GEN
+TI  - Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models
+AU  - Liu, Xu
+AU  - Aksu, Taha
+AU  - Liu, Juncheng
+AU  - Wen, Qingsong
+AU  - Liang, Yuxuan
+AU  - Xiong, Caiming
+AU  - Savarese, Silvio
+AU  - Sahoo, Doyen
+AU  - Li, Junnan
+AU  - Liu, Chenghao
+PY  - 2025
+T2  - arXiv
+DO  - 10.48550/arxiv.2503.11411
+UR  - https://doi.org/10.48550/arxiv.2503.11411
+ER  - 
+
+TY  - GEN
+TI  - Rethinking Evaluation in the Era of Time Series Foundation Models: (Un)known Information Leakage Challenges
+AU  - Meyer, Marcel
+AU  - Kaltenpoth, Sascha
+AU  - Zalipski, Kevin
+AU  - Müller, Oliver
+PY  - 2025
+T2  - arXiv
+DO  - 10.48550/arxiv.2510.13654
+UR  - https://doi.org/10.48550/arxiv.2510.13654
+ER  - 
+
+TY  - GEN
+TI  - fev-bench: A Realistic Benchmark for Time Series Forecasting
+AU  - Shchur, Oleksandr
+AU  - Ansari, Abdul Fatir
+AU  - Turkmen, Caner
+AU  - Stella, Lorenzo
+AU  - Erickson, Nick
+AU  - Guerron, Pablo
+AU  - Bohlke-Schneider, Michael
+AU  - Wang, Yuyang
+PY  - 2025
+T2  - arXiv
+DO  - 10.48550/arxiv.2509.26468
+UR  - https://doi.org/10.48550/arxiv.2509.26468
+ER  - 
+
+TY  - JOUR
+TI  - A Review of Nowcasting, Forecasting and AI in Economic Indicator Prediction
+AU  - Özge Var
+AU  - Alptekin Durmuşoğlu
+AU  - Türkay Dereli
+PY  - 2026
+T2  - Computational Economics
+DO  - 10.1007/s10614-026-11380-1
+UR  - https://doi.org/10.1007/s10614-026-11380-1
+ER  - 
+
+TY  - GEN
+TI  - Diffusion Models in Finance: A Survey
+AU  - Wang, Zhuohan
+AU  - Ventre, Carmine
+PY  - 2026
+T2  - arXiv
+DO  - 10.48550/arxiv.2608.12583
+UR  - https://doi.org/10.48550/arxiv.2608.12583
+ER  - 
+
+TY  - GEN
+TI  - FinVerse: Toward More Realistic Evaluation for Financial Time-Series Forecasting
+AU  - Lee, Jaehoon
+AU  - Seo, Jun
+AU  - Lee, Seunghan
+AU  - Lim, Tae Yoon
+AU  - Kang, Dongwan
+AU  - Choi, Hwanil
+AU  - Kim, Minjae
+AU  - Yoo, Sungdong
+AU  - Kang, Junhyeok
+AU  - Han, Sangjun
+AU  - Lee, Soonyoung
+AU  - Ni, Hao
+AU  - Sood, Srijan
+AU  - Zohren, Stefan
+AU  - Choi, Chanyeol
+AU  - Lee, Yongjae
+AU  - Wang, Zhangyang
+AU  - Szpruch, Lukasz
+AU  - Bowring, Benjamin
+AU  - Ahn, Wonbin
+PY  - 2026
+T2  - arXiv
+DO  - 10.48550/arxiv.2608.03259
+UR  - https://doi.org/10.48550/arxiv.2608.03259
+ER  - 
+
+TY  - JOUR
+TI  - Financial time-series generation: a systematic survey of taxonomy, evaluation, datasets, and open challenges
+AU  - Yingxiao Zhang
+AU  - Jiaxin Duan
+AU  - Yue Zou
+AU  - Ke Feng
+AU  - Jing Xiao
+PY  - 2026
+T2  - npj Artificial Intelligence
+DO  - 10.1038/s44387-026-00166-3
+UR  - https://doi.org/10.1038/s44387-026-00166-3
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning in stock market forecasting: a comprehensive review
+AU  - Moksh Khemka
+AU  - Kamal Haddad
+AU  - Tanzim Redwan
+AU  - Adib Ahmed
+PY  - 2026
+T2  - Discover Computing
+DO  - 10.1007/s10791-026-10491-5
+UR  - https://doi.org/10.1007/s10791-026-10491-5
+ER  - 
+
+TY  - GEN
+TI  - A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting
+AU  - Arsenault, Pierre-Daniel
+AU  - Wang, Shengrui
+AU  - Patenande, Jean-Marc
+PY  - 2025
+T2  - arXiv
+DO  - 10.48550/arxiv.2407.15909
+UR  - https://doi.org/10.48550/arxiv.2407.15909
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning for financial forecasting: A review of recent trends
+AU  - Sofia Giantsidi
+AU  - Claudia Tarantola
+PY  - 2025
+T2  - International Review of Economics &amp; Finance
+DO  - 10.1016/j.iref.2025.104719
+UR  - https://doi.org/10.1016/j.iref.2025.104719
+ER  - 
+
+TY  - JOUR
+TI  - Navigating AI-Driven Financial Forecasting: A Systematic Review of Current Status and Critical Research Gaps
+AU  - László Vancsura
+AU  - Tibor Tatay
+AU  - Tibor Bareith
+PY  - 2025
+T2  - Forecasting
+DO  - 10.3390/forecast7030036
+UR  - https://doi.org/10.3390/forecast7030036
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Review on Advanced Deep Computational Techniques for Air Pollution Prediction
+AU  - Mary Ann Yeboah
+AU  - Evans Kotei
+AU  - Thirunavukarasu Ramkumar
+AU  - Kofi Agyarko Ababio
+AU  - Maxwell Kwame Boakye
+AU  - Samuel Dua Oduro
+AU  - Sampson Kofi Kyei
+PY  - 2026
+T2  - Archives of Computational Methods in Engineering
+DO  - 10.1007/s11831-026-10755-9
+UR  - https://doi.org/10.1007/s11831-026-10755-9
+ER  - 
+
+TY  - JOUR
+TI  - Air-Quality Forecasting Across Monitoring, Predictor, and Validation Regimes: A Systematic Mapping Review and Decision Framework
+AU  - Elena Chianese
+AU  - Angelo Riccio
+PY  - 2026
+T2  - Forecasting
+DO  - 10.3390/forecast8040072
+UR  - https://doi.org/10.3390/forecast8040072
+ER  - 
+
+TY  - JOUR
+TI  - From air quality forecasting to integrated and intelligent urban prediction systems
+AU  - Yuting Wang
+AU  - Guy Brasseur
+PY  - 2026
+T2  - npj Clean Air
+DO  - 10.1038/s44407-026-00105-1
+UR  - https://doi.org/10.1038/s44407-026-00105-1
+ER  - 
+
+TY  - JOUR
+TI  - Harnessing deep learning for air pollution forecasting: trends, techniques, and future prospects
+AU  - Salvator Lawrence
+AU  - Srimuruganandam Bhathmanabhan
+PY  - 2026
+T2  - Artificial Intelligence Review
+DO  - 10.1007/s10462-026-11496-8
+UR  - https://doi.org/10.1007/s10462-026-11496-8
+ER  - 
+
+TY  - JOUR
+TI  - Indoor Air Quality Forecasting With Machine Learning: A Systematic Review
+AU  - Lewis Hall Rudford
+AU  - Sara Sharifzadeh
+AU  - Nicholas Micallef
+AU  - Paul Lewis
+AU  - Philip Webb
+AU  - Daniele Doneddu
+PY  - 2026
+T2  - Indoor Air
+DO  - 10.1155/ina/8524332
+UR  - https://doi.org/10.1155/ina/8524332
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Review of Data-Driven Techniques for Air Pollution Concentration Forecasting
+AU  - Jaroslaw Bernacki
+AU  - Rafał Scherer
+PY  - 2025
+T2  - Sensors
+DO  - 10.3390/s25196044
+UR  - https://doi.org/10.3390/s25196044
+ER  - 
+
+TY  - JOUR
+TI  - A comprehensive review of AI-driven water-quality monitoring and prediction: advances, challenges, and future directions
+AU  - K. Yukesh Kumar
+AU  - P. Kumaresan
+PY  - 2026
+T2  - Frontiers in Water
+DO  - 10.3389/frwa.2026.1946412
+UR  - https://doi.org/10.3389/frwa.2026.1946412
+ER  - 
+
+TY  - JOUR
+TI  - A systematic review on machine learning deep learning and IoT for water quality prediction
+AU  - Katyayani Pandey
+AU  - Praveen Shukla
+AU  - Suman Bhakar
+AU  - Hitesh Tekchandani
+AU  - Rohit Mittal
+PY  - 2026
+T2  - Discover Sustainability
+DO  - 10.1007/s43621-026-03756-y
+UR  - https://doi.org/10.1007/s43621-026-03756-y
+ER  - 
+
+TY  - JOUR
+TI  - Advances in Water Quality Forecasting Using Deep Learning: A Review of Fundamental, Models, Evaluation and Challenges
+AU  - Wan Zakiah Wan Ismail
+AU  - Abdallah Abuishaq
+AU  - Nor Azlina Ab. Aziz
+AU  - Anith Khairunnisa Ghazali
+AU  - Omar Asad Ahmad
+PY  - 2026
+T2  - Environments
+DO  - 10.3390/environments13090515
+UR  - https://doi.org/10.3390/environments13090515
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning for water quality management: a systematic review of prediction models, data challenges, and future directions
+AU  - Ibrahim Said
+PY  - 2026
+T2  - Environmental Sciences Europe
+DO  - 10.1186/s12302-026-01430-8
+UR  - https://doi.org/10.1186/s12302-026-01430-8
+ER  - 
+
+TY  - JOUR
+TI  - A Bibliometric-Systematic Literature Review (B-SLR) of Machine Learning-Based Water Quality Prediction: Trends, Gaps, and Future Directions
+AU  - Jeimmy Adriana Muñoz-Alegría
+AU  - Jorge Núñez
+AU  - Ricardo Oyarzún
+AU  - Cristian Alfredo Chávez
+AU  - José Luis Arumí
+AU  - Lien Rodríguez-López
+PY  - 2025
+T2  - Water
+DO  - 10.3390/w17202994
+UR  - https://doi.org/10.3390/w17202994
+ER  - 
+
+TY  - JOUR
+TI  - A Review of Water Quality Forecasting Models for Freshwater Lentic Ecosystems
+AU  - Jovheiry Christopher García-Guerrero
+AU  - José M. Álvarez-Alvarado
+AU  - Roberto Valentín Carrillo-Serrano
+AU  - Viviana Palos-Barba
+AU  - Juvenal Rodríguez-Reséndiz
+PY  - 2025
+T2  - Water
+DO  - 10.3390/w17152312
+UR  - https://doi.org/10.3390/w17152312
+ER  - 
+
+TY  - JOUR
+TI  - A Review of Water Quality Forecasting and Classification Using Machine Learning Models and Statistical Analysis
+AU  - Amar Lokman
+AU  - Wan Zakiah Wan Ismail
+AU  - Nor Azlina Ab Aziz
+PY  - 2025
+T2  - Water
+DO  - 10.3390/w17152243
+UR  - https://doi.org/10.3390/w17152243
+ER  - 
+
+TY  - JOUR
+TI  - Advancements in water quality prediction: a practical review of machine learning and deep learning approaches
+AU  - Marwah A. Helaly
+AU  - Sherine Rady
+AU  - Mohamed Mabrouk
+AU  - Mostafa M. Aref
+AU  - Sebastian Villarroya
+AU  - Jose M. Cotos
+AU  - David Mera
+PY  - 2025
+T2  - Cluster Computing
+DO  - 10.1007/s10586-025-05221-3
+UR  - https://doi.org/10.1007/s10586-025-05221-3
+ER  - 
+
+TY  - JOUR
+TI  - Recent Advances in Remote Sensing and Artificial Intelligence for River Water Quality Forecasting: A Review
+AU  - Daiwei Pan
+AU  - Ying Deng
+AU  - Simon X. Yang
+AU  - Bahram Gharabaghi
+PY  - 2025
+T2  - Environments
+DO  - 10.3390/environments12050158
+UR  - https://doi.org/10.3390/environments12050158
+ER  - 
+
+TY  - JOUR
+TI  - Artificial intelligence for weather and climate: a survey of methods, benchmarks, and scientific machine learning challenges
+AU  - Andreas Holzinger
+AU  - Sandro Fiore
+AU  - Tullio Degiacomi
+AU  - Fabrizio Antonio
+AU  - Heimo Müller
+PY  - 2026
+T2  - Artificial Intelligence Review
+DO  - 10.1007/s10462-026-11690-8
+UR  - https://doi.org/10.1007/s10462-026-11690-8
+ER  - 
+
+TY  - JOUR
+TI  - Bridging the weather and climate divide with artificial intelligence
+AU  - Gustau Camps-Valls
+AU  - Alberto Carrassi
+AU  - Francisco de Melo Viríssimo
+AU  - Kevin Debeire
+AU  - Miguel-Ángel Fernández-Torres
+AU  - Philipp Hess
+AU  - Helge Heuer
+AU  - Nathan Mankovich
+AU  - David Montero
+AU  - Esther Rodrigo-Bonet
+AU  - Federico Serva
+AU  - Vasileios Sitokonstantinou
+AU  - Alistair White
+AU  - Kai-Hendrik Cohrs
+AU  - Jonathan Wider
+AU  - Christian Reimers
+AU  - Nikolaos Ioannis Bountos
+AU  - Ioannis Papoutsis
+AU  - Pierre Gentine
+AU  - Veronika Eyring
+PY  - 2026
+T2  - Nature Communications
+DO  - 10.1038/s41467-026-75787-y
+UR  - https://doi.org/10.1038/s41467-026-75787-y
+ER  - 
+
+TY  - CPAPER
+TI  - Deep Learning and Foundation Models for Weather Prediction: A Survey
+AU  - Jimeng Shi
+AU  - Azam Shirali
+AU  - Bowen Jin
+AU  - Sizhe Zhou
+AU  - Wei Hu
+AU  - Rahuul Rangaraj
+AU  - Zhaonan Wang
+AU  - Yanzhao Wu
+AU  - Leonardo Bobadilla
+AU  - Upmanu Lall
+AU  - Shaowen Wang
+AU  - Jiawei Han
+AU  - Giri Narasimhan
+PY  - 2026
+T2  - Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
+DO  - 10.24963/ijcai.2026/890
+UR  - https://doi.org/10.24963/ijcai.2026/890
+ER  - 
+
+TY  - JOUR
+TI  - Modern weather forecasting: mathematical foundations, tools and current state of the art
+AU  - Carlo Cacciamani
+AU  - Vincenzo Vespri
+PY  - 2026
+T2  - SeMA Journal
+DO  - 10.1007/s40324-026-00443-w
+UR  - https://doi.org/10.1007/s40324-026-00443-w
+ER  - 
+
+TY  - JOUR
+TI  - The convergence of machine learning and data assimilation in Earth system science
+AU  - Rossella Arcucci
+AU  - Sean Healy
+AU  - Sarah Dance
+AU  - Lili Lei
+AU  - Eviatar Bach
+AU  - Anthony T. Weaver
+AU  - Takemasa Miyoshi
+AU  - Maria Eugenia Dillon
+AU  - Clara Draper
+AU  - Rochelle Schneider
+AU  - Simon Lang
+AU  - Peter Dueben
+AU  - Niels Bormann
+AU  - Peter Lean
+AU  - Alan Geer
+AU  - Massimo Bonavita
+AU  - Peter Jan van Leeuwen
+AU  - Sibo Cheng
+AU  - Marc Bocquet
+AU  - Nedjeljka Zagar
+AU  - Haroldo Fraga de Campos Velho
+AU  - Juan Jose Ruiz
+AU  - Peter Bauer
+AU  - Sid Ahmed Boukabara
+AU  - Alberto Carrassi
+AU  - Russ Treadon
+AU  - Andrew Collard
+AU  - Daryl Kleist
+AU  - Azadeh Gholoubi
+AU  - Xuguang Wang
+AU  - Nahidul Samrat
+AU  - Gemma Ralton
+AU  - Andrew M. Moore
+AU  - Katia Lamer
+AU  - Nico Caltabiano
+PY  - 2026
+T2  - npj Artificial Intelligence
+DO  - 10.1038/s44387-026-00107-0
+UR  - https://doi.org/10.1038/s44387-026-00107-0
+ER  - 
+
+TY  - JOUR
+TI  - A Review of the Advances and Emerging Approaches in Hydrological Forecasting: From Traditional to AI-Powered Models
+AU  - Kevin Paolo V. Robles
+AU  - Jerose G. Solmerin
+AU  - Gerald Christian E. Pugat
+AU  - Cris Edward F. Monjardin
+PY  - 2026
+T2  - Water
+DO  - 10.3390/w18010119
+UR  - https://doi.org/10.3390/w18010119
+ER  - 
+
+TY  - JOUR
+TI  - A review of current best practices and future directions in assimilating GRACE/-FO terrestrial water storage data into numerical models
+AU  - Anne Springer
+AU  - Gabriëlle De Lannoy
+AU  - Matthew Rodell
+AU  - Yorck Ewerdwalbesloh
+AU  - Helena Gerdener
+AU  - Mehdi Khaki
+AU  - Bailing Li
+AU  - Fupeng Li
+AU  - Maike Schumacher
+AU  - Natthachet Tangdamrongsub
+AU  - Mohammad J. Tourian
+AU  - Wanshu Nie
+AU  - Jürgen Kusche
+PY  - 2026
+T2  - Hydrology and Earth System Sciences
+DO  - 10.5194/hess-30-985-2026
+UR  - https://doi.org/10.5194/hess-30-985-2026
+ER  - 
+
+TY  - JOUR
+TI  - The Application of Artificial Intelligence in Streamflow Forecasting: A Review
+AU  - Sandhya Eswara
+AU  - Andrew Barton
+AU  - Tanveer Choudhury
+AU  - Thomas Chubb
+PY  - 2026
+T2  - Water Resources Management
+DO  - 10.1007/s11269-026-04883-x
+UR  - https://doi.org/10.1007/s11269-026-04883-x
+ER  - 
+
+TY  - JOUR
+TI  - Advancing Sub-Seasonal to Seasonal Streamflow Forecasting in Canada: A Review of Conventional and Emerging Approaches for Operational Applications
+AU  - Duc Hai Nguyen
+AU  - Amin Elshorbagy
+AU  - Muhammad Naveed Khaliq
+AU  - Chaopeng Shen
+AU  - Mohammad Khaled Akhtar
+AU  - Mohamed Moghairib
+AU  - Fisaha Unduche
+AU  - Saman Razavi
+AU  - Philippe Lamontagne
+PY  - 2025
+T2  - Results in Engineering
+DO  - 10.1016/j.rineng.2025.106345
+UR  - https://doi.org/10.1016/j.rineng.2025.106345
+ER  - 
+
+TY  - JOUR
+TI  - Application of Artificial Intelligence in Hydrological Modeling for Streamflow Prediction in Ungauged Watersheds: A Review
+AU  - Jerome G. Gacu
+AU  - Cris Edward F. Monjardin
+AU  - Ronald Gabriel T. Mangulabnan
+AU  - Jerime Chris F. Mendez
+PY  - 2025
+T2  - Water
+DO  - 10.3390/w17182722
+UR  - https://doi.org/10.3390/w17182722
+ER  - 
+
+TY  - JOUR
+TI  - Beyond Deterministic Forecasts: A Scoping Review of Probabilistic Uncertainty Quantification in Short-to-Seasonal Hydrological Prediction
+AU  - David De León Pérez
+AU  - Sergio Salazar-Galán
+AU  - Félix Francés
+PY  - 2025
+T2  - Water
+DO  - 10.3390/w17202932
+UR  - https://doi.org/10.3390/w17202932
+ER  - 
+
+TY  - JOUR
+TI  - Review and Intercomparison of Machine Learning Applications for Short-term Flood Forecasting
+AU  - Muhammad Asif
+AU  - Monique M. Kuglitsch
+AU  - Ivanka Pelivan
+AU  - Raffaele Albano
+PY  - 2025
+T2  - Water Resources Management
+DO  - 10.1007/s11269-025-04093-x
+UR  - https://doi.org/10.1007/s11269-025-04093-x
+ER  - 
