@@ -9,5 +9,6 @@
 - `volume_data/`：27 个币种的 1 分钟成交量 CSV（字段 `asset, coin, time, volume, volume_usd, trade_count, close`，2026-01-01 至 2026-09-23）。
 - `haystack-tutorials-main.zip`：[deepset-ai/haystack-tutorials](https://github.com/deepset-ai/haystack-tutorials) 的教程快照，Apache-2.0 许可。
 - Release [`bayesian_optimization`](https://github.com/yuriev315/time_series_recent_report/releases/tag/bayesian_optimization)：贝叶斯优化与高斯过程参考文献，以及在 Windows x64 上离线运行 ISLP（Python）实验和 R keras 专题脚本的完整环境。先解压 `bayesian_optimization.zip`，用法见其中的 `README.md`。
+- Release [`price_forecast_journal_papers`](https://github.com/yuriev315/time_series_recent_report/releases/tag/price_forecast_journal_papers)：2024 年起价格预测及相关计量方法（Markov 切换、多重分形、MIDAS、OHLC）的期刊论文、作者代码快照、论文目录与代码核验记录，以及在 Windows x64 上离线运行各项目代码所需的依赖包。先解压 `price_forecast_journal_papers.zip`，说明见其中的 `README.md`。
 
 论文版权归作者和出版方所有，使用时以各篇 PDF 中的许可声明为准。
