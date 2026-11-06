@@ -1,5 +1,5 @@
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-.ipynb_checkpoints/
+# GitHub rejects Git files over 100MB; download from Releases instead.
+papers/Fengyang.zip
+
+# leftover partial downloads
+*.8oLeNN
